@@ -29,24 +29,6 @@ Sube los cambios a GitHub:
 
 git push origin dev
 
-
-Cámbiate a la rama principal (main):
-
-git checkout main
-
-
-Fusiona (merge) el sprint completado desde dev:
-
-git merge dev
-
-
-Sube la rama principal actualizada:
-
-git push origin main
-
-
-✅ Con eso, el sprint queda “cerrado oficialmente”.
-
 ## Flujo de trabajo con Git
 - Rama principal: `main` (versión estable del sistema)
 - Rama de desarrollo: `dev` (trabajo activo por sprint)
