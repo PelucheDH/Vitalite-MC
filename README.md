@@ -39,14 +39,14 @@ git push origin dev
   4. git push origin dev
   5. Al cerrar sprint → merge a `main`
 
-BACKEND ACTIVAR 
+## BACKEND ACTIVAR 
 1. cd backend
 2. node src/server.js
 
 3. Ctrl + C (Fin)
 
-FRONTEND ACTIVAR
+## FRONTEND ACTIVAR
 1. cd frontend
-2. npm run dev
+2. npx vite
 
 3. Ctrl + C (Fin)
